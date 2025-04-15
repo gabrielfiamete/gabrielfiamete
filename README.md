@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on VMWare services and OCI services<br>Fun fact: most of the time I identify bugs before they actually occur
+I'm currently working on VMWare services and OCI services.
 
 
 ## 🌐 Socials:
